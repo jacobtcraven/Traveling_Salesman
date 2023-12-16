@@ -1,0 +1,4 @@
+Best Tour: 0 6 1 4 2 11 10 3 5 12 8 9 7 
+Distance: 331.763
+Brute Time 5 = 41897072[µs]
+Brute Time 5 = 41[s]

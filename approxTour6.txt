@@ -1,0 +1,4 @@
+Approximate Tour: 0 6 10 5 9 4 2 3 12 8 7 1 11 0
+Distance: 271.9
+Approximate Tour Time 7 = 1389[µs]
+Approximate Tour Time 7 = 0[s]
